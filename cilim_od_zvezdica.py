@@ -26,12 +26,7 @@
 # ***  ***
 # ********
 
-def ispisi_n_puta(c, n):
-    for i in range(n):
-        print(c, sep="", end="")
-
 n = int(input("Unesi broj: "))
-
 k=0
 
 for i in range(2*n):
